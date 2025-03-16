@@ -1,4 +1,4 @@
-This repoo contains my JS learning simple Projects !!
+# This repoo has my JS learnings + simple Projects !!
 
 
 
